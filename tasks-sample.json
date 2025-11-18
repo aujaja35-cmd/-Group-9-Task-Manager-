@@ -1,0 +1,111 @@
+[
+  {
+    "id": "TASK-1730000001-001",
+    "description": "Complete project documentation for Task Manager system",
+    "dueDate": "2025-12-15",
+    "status": "Pending",
+    "priority": "High",
+    "category": "Study",
+    "createdAt": "2025-11-01T10:00:00.000Z"
+  },
+  {
+    "id": "TASK-1730000002-002",
+    "description": "Prepare presentation slides for final project defense",
+    "dueDate": "2025-12-20",
+    "status": "Pending",
+    "priority": "High",
+    "category": "Study",
+    "createdAt": "2025-11-02T11:30:00.000Z"
+  },
+  {
+    "id": "TASK-1730000003-003",
+    "description": "Review and refactor TaskManager.ts module for better code quality",
+    "dueDate": "2025-11-25",
+    "status": "Completed",
+    "priority": "Medium",
+    "category": "Work",
+    "createdAt": "2025-11-03T09:15:00.000Z",
+    "completedAt": "2025-11-15T14:30:00.000Z"
+  },
+  {
+    "id": "TASK-1730000004-004",
+    "description": "Test all CRUD operations and document test cases",
+    "dueDate": "2025-11-28",
+    "status": "Completed",
+    "priority": "High",
+    "category": "Study",
+    "createdAt": "2025-11-05T13:45:00.000Z",
+    "completedAt": "2025-11-18T10:20:00.000Z"
+  },
+  {
+    "id": "TASK-1730000005-005",
+    "description": "Buy groceries and prepare meals for the week",
+    "status": "Pending",
+    "priority": "Low",
+    "category": "Personal",
+    "createdAt": "2025-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "TASK-1730000006-006",
+    "description": "Attend team meeting to discuss sprint planning",
+    "dueDate": "2025-11-22",
+    "status": "Completed",
+    "priority": "Medium",
+    "category": "Work",
+    "createdAt": "2025-11-12T07:30:00.000Z",
+    "completedAt": "2025-11-22T15:00:00.000Z"
+  },
+  {
+    "id": "TASK-1730000007-007",
+    "description": "Study data structures and algorithms for upcoming exam",
+    "dueDate": "2025-12-05",
+    "status": "Pending",
+    "priority": "High",
+    "category": "Study",
+    "createdAt": "2025-11-14T16:20:00.000Z"
+  },
+  {
+    "id": "TASK-1730000008-008",
+    "description": "Complete React component refactoring with TypeScript best practices",
+    "dueDate": "2025-11-30",
+    "status": "Pending",
+    "priority": "Medium",
+    "category": "Work",
+    "createdAt": "2025-11-15T12:00:00.000Z"
+  },
+  {
+    "id": "TASK-1730000009-009",
+    "description": "Schedule dentist appointment for annual checkup",
+    "status": "Pending",
+    "priority": "Low",
+    "category": "Personal",
+    "createdAt": "2025-11-16T09:45:00.000Z"
+  },
+  {
+    "id": "TASK-1730000010-010",
+    "description": "Research database optimization techniques for final year project",
+    "dueDate": "2025-12-10",
+    "status": "Pending",
+    "priority": "Medium",
+    "category": "Study",
+    "createdAt": "2025-11-17T14:15:00.000Z"
+  },
+  {
+    "id": "TASK-1730000011-011",
+    "description": "Organize workspace and backup important project files",
+    "status": "Completed",
+    "priority": "Low",
+    "category": "Personal",
+    "createdAt": "2025-11-18T10:30:00.000Z",
+    "completedAt": "2025-11-18T11:00:00.000Z"
+  },
+  {
+    "id": "TASK-1730000012-012",
+    "description": "Debug authentication module and fix security vulnerabilities",
+    "dueDate": "2025-11-27",
+    "status": "Pending",
+    "priority": "High",
+    "category": "Work",
+    "createdAt": "2025-11-18T15:40:00.000Z"
+  }
+]
