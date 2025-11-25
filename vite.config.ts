@@ -4,7 +4,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/-Group-9-Task-Manager-/", // <--- Add this line
+  base: "/-Group-9-Task-Manager-/", // Needed for GitHub Pages
   server: {
     host: "::",
     port: 8080,
