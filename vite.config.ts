@@ -2,9 +2,8 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
-// https://vitejs.dev/config/
 export default defineConfig({
-  base: "/-Group-9-Task-Manager-/", // <--- this is required for GitHub Pages
+  base: "/-Group-9-Task-Manager-/", // IMPORTANT: matches your repo name exactly
   server: {
     host: "::",
     port: 8080,
